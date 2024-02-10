@@ -176,8 +176,17 @@ p.thicker {
 
 /* FOOTER--------------------------------- */
 .footer-container {
-    display: flex;
+    /* display: flex;
+    position: relative; */
+    /* height: 200px; */
+    background-color:fuchsia
+}
+.body-footer-img {
+    /* background-color: aqua; */
+    height: 150px;
     position: relative;
-    height: 30px;
-    /* background-color:fuchsia */
+ 
+    /* width: 300px; */
+    /* position: relative; */
+    /* width: 50%; */
 }
